@@ -1,0 +1,31 @@
+$screen-desktop-min : 600px;
+
+.header-main{
+    background: #266769;
+    margin: 0;
+    width: 100%;
+    }
+  
+.header-logoSize{
+    height: 75px;
+    margin-top: 5%;
+    }
+  
+.header-text-center{
+    display: inline-block;
+    color: white;
+    opacity: 0.8;
+    font-size: 15px;
+    }
+
+@media only screen and (min-width:#{$screen-desktop-min}){
+    .header-logoSize{
+        float: left;
+        margin: 1%;
+        }
+      
+    .header-text-center{
+        margin-right: 20%;
+        font-size: 40px;
+        }
+    }

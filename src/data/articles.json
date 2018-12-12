@@ -1,0 +1,59 @@
+[
+    {
+      "id":"1234",
+      "title": "phone app",
+      "comments": [{
+        "comment":"Wow! Article is interesting!!",
+        "commentedBy": "Madhu Rebbana"
+      },{
+        "comment":"Awesome!! Loved it!!",
+        "commentedBy": "John Cokos"
+      },{
+        "comment":"Wow! Article is interesting!!",
+        "commentedBy": "Madhu Rebbana"
+      },{
+        "comment":"Awesome!! Loved it!!",
+        "commentedBy": "John Cokos"
+      },{
+        "comment":"Wow! Article is interesting!!",
+        "commentedBy": "Madhu Rebbana"
+      },{
+        "comment":"Awesome!! Loved it!!",
+        "commentedBy": "John Cokos"
+      },{
+        "comment":"Wow! Article is interesting!!",
+        "commentedBy": "Madhu Rebbana"
+      },{
+        "comment":"Awesome!! Loved it!!",
+        "commentedBy": "John Cokos"
+      }],
+      "num_comments": 8,
+      "num_votes": 102,
+      "link":"https://imgur.com/a/8ueKI7W",
+      "thumbnail": "https://b.thumbs.redditmedia.com/keI815GVqHukmhD0dZOxWGds0aGYoj9fMmzr4MVlJDo.jpg"
+    },
+    {
+      "id":"1235",
+      "title": "Seattle seahawks",
+      "comments": [{
+        "comment":"Awesome!! Loved it!!",
+        "commentedBy": "John Cokos"
+      }],
+      "num_comments": 1,
+      "num_votes": 300,
+      "link":"https://imgur.com/a/8ueKI7W",
+      "thumbnail": "https://b.thumbs.redditmedia.com/lHThQ4Ieooc7JW9vRK9io5943DoN5Ne4GKGMG54Wn6Y.jpg"
+    },
+    {
+      "id":"1236",
+      "title": "Arizona Diamondbacks ",
+      "comments": [{
+        "comment":"way to go",
+        "commentedBy": "Sara Bruce"
+      }],
+      "num_comments": 1,
+      "num_votes": 100,
+      "link":"https://imgur.com/a/8ueKI7W",
+      "thumbnail": "https://b.thumbs.redditmedia.com/AHeAbmhAqISeOal3dahagvgEaqVEvC87JAvsa6Rh_7w.jpg"
+    }
+  ]
